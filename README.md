@@ -41,11 +41,3 @@ The analysis focuses on:
 - Age-related patterns in cholesterol levels  
 - Dietary intake trends across different ethnicities  
 
----
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Sehar-Aejaz/nhanes-health-data-wrangling.git
-   cd nhanes-health-data-wrangling
-
